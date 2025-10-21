@@ -1,0 +1,2 @@
+# Flange-Order-Excel-Merge-Filter-Download-Automation
+Different Flange orders in the excel format (fixed columns) are uploaded and merged to master sheet, where multiple filters can be applied and rows can be select by check box. Filtered/selected rows from the master sheet can be download in xlsx/csv. Useful search for similar orders in the past and export them to make new quotations based on it.
