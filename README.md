@@ -1,2 +1,2 @@
 # Flange-Order-Excel-Merge-Filter-Download-Automation
-Different Flange orders in the excel format (fixed columns) are uploaded and merged to master sheet, where multiple filters can be applied and rows can be select by check box. Filtered/selected rows from the master sheet can be download in xlsx/csv. Useful search for similar orders in the past and export them to make new quotations based on it.
+Streamline quotation creation for flange orders by enabling upload and merging of past order data into a master sheet, with filtering, selection, and export (XLSX/CSV).Supports search of similar past orders to reuse insights in quoting. Repo also includes PYNB,data pipeline(preprocessing, cleaning, encoding) LSTM model to analyze and predict profit
