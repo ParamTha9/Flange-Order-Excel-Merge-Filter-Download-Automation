@@ -1,2 +1,2 @@
 # Flange-Order-Excel-Merge-Filter-Download-Automation
-Streamline quotation creation for flange orders by enabling upload and merging of past order data into a master sheet, with filtering, selection, and export (XLSX/CSV).Supports search of similar past orders to reuse insights in quoting. Repo also includes PYNB,data pipeline(preprocessing, cleaning, encoding) LSTM model to analyze and predict profit
+Streamline quotation creation for flange orders by enabling upload and merging of past order data into a master sheet, with filtering, selection, and export (XLSX/CSV).Supports search of similar past orders to reuse insights in quoting. Repo also includes PYNB,data pipeline(preprocessing, cleaning, encoding) LSTM model to analyze and predict profit.
